@@ -1,0 +1,441 @@
+repo_name: filipeoliveiraa/leerob.io
+report_id: 9646b725a193fb731893add729c28a33
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T23:17:51+00:00'
+requested_by: leerob
+provider: github
+branch: main
+detected_tools_count: 29
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 13.4.8
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2019-01-06 17:34:20.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2019-01-06 17:34:20.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2019-01-06 17:34:20.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2019-01-06 17:34:20.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@planetscale/database"
+  description: A Fetch API-compatible PlanetScale database driver
+  package_url: https://www.npmjs.com/@planetscale/database
+  version: 1.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@vercel/analytics"
+  description: Gain real-time traffic insights with Vercel Web Analytics
+  package_url: https://www.npmjs.com/@vercel/analytics
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: "@vercel/edge-config"
+  description: Ultra-low latency data at the edge
+  package_url: https://www.npmjs.com/@vercel/edge-config
+  version: 0.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 118.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: kysely
+  description: Type safe SQL query builder
+  package_url: https://www.npmjs.com/kysely
+  version: 0.25.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: kysely-planetscale
+  description: Kysely dialect for PlanetScale Serverless
+  package_url: https://www.npmjs.com/kysely-planetscale
+  version: 1.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: next-auth
+  description: Authentication for Next.js
+  package_url: https://www.npmjs.com/next-auth
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+  vulnerabilities:
+  - name: NextAuth.js before 4.10.3 and 3.29.10 sending verification requests (magic
+      link) to unwanted emails
+    cve_id: CVE-2022-35924
+    cve_url: https://github.com/advisories/GHSA-xv97-c62v-4587
+    detected_date: Nov 26
+    severity: critical
+    first_patched: 3.29.10
+  - name: Improper handling of email input
+    cve_id: CVE-2022-31127
+    cve_url: https://github.com/advisories/GHSA-pgjx-7f9g-9463
+    detected_date: Nov 26
+    severity: high
+    first_patched: 3.29.8
+  - name: Missing proper state, nonce and PKCE checks for OAuth authentication
+    cve_id: CVE-2023-27490
+    cve_url: https://github.com/advisories/GHSA-7r7x-4c4q-c4qf
+    detected_date: Nov 25
+    severity: high
+    first_patched: 4.20.1
+  - name: Improper Handling of `callbackUrl` parameter in next-auth
+    cve_id: CVE-2022-31093
+    cve_url: https://github.com/advisories/GHSA-g5fm-jp9v-2432
+    detected_date: Nov 26
+    severity: high
+    first_patched: 3.29.5
+  - name: Possible user mocking that bypasses basic authentication
+    cve_id: CVE-2023-48309
+    cve_url: https://github.com/advisories/GHSA-v64w-49xw-qq89
+    detected_date: Nov 25
+    severity: moderate
+    first_patched: 4.24.5
+  - name: NextAuth.js default redirect callback vulnerable to open redirects
+    cve_id: CVE-2022-24858
+    cve_url: https://github.com/advisories/GHSA-f9wg-5f46-cjmw
+    detected_date: Nov 27
+    severity: moderate
+    first_patched: 3.29.2
+  - name: URL Redirection to Untrusted Site ('Open Redirect') in next-auth
+    cve_id: CVE-2022-29214
+    cve_url: https://github.com/advisories/GHSA-q2mx-j4x2-2h74
+    detected_date: Nov 26
+    severity: moderate
+    first_patched: 3.29.3
+  - name: next-auth before v4.10.2 and v3.29.9 leaks excessive information into log
+    cve_id: CVE-2022-31186
+    cve_url: https://github.com/advisories/GHSA-p6mm-27gq-9v3p
+    detected_date: Nov 26
+    severity: low
+    first_patched: 3.29.9
+  - name: Token verification bug in next-auth
+    cve_id: CVE-2021-21310
+    cve_url: https://github.com/advisories/GHSA-pg53-56cg-4m8q
+    detected_date: Nov 27
+    severity: low
+    first_patched: 3.3.0
+- name: next-contentlayer
+  description: Contentlayer turns your content into data - making it super easy to
+    import MD
+  package_url: https://www.npmjs.com/next-contentlayer
+  version: 0.3.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2021-12-09 19:25:48.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/filipeoliveiraa/leerob.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lee Robinson
+  last_updated_on: 2023-06-27 23:22:09.000000000 Z
