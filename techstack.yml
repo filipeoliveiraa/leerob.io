@@ -2,7 +2,7 @@ repo_name: filipeoliveiraa/leerob.io
 report_id: 9646b725a193fb731893add729c28a33
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T23:17:51+00:00'
+timestamp: '2024-02-29T19:54:42+00:00'
 requested_by: leerob
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Lee Robinson
   last_updated_on: 2023-06-27 23:22:09.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.8
   open_source: true
